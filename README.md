@@ -120,6 +120,9 @@
 
 ###
 
+![Wakatime stats](https://github.com/ArunSanyal/ArunSanyal/blob/main/metrics.plugin.wakatime.svg)
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ArunSanyal/count.svg?"  />
 </div>
