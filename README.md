@@ -3,10 +3,14 @@
 </div>
 
 
-###
+### 
 
 <p align="center">
-  🎓 Computer Engineering Under-graduate, soon starting my Master’s in Computer Science at the University of Arizona<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi!+I'm+Arun+Sanyal;ML+and+Gen+AI+Fan;Debugging+%3D+Solving+Puzzles;Ambivert+and+Curious+Coder" />
+</p>
+
+<p align="center">
+  🎓 Computer Engineering Undergrad, soon starting my Master’s at the University of Arizona<br>
   💻 I love programming — turning ideas into code is my favorite kind of magic<br>
   🧠 Passionate about Machine Learning and Generative AI — fascinated by how machines learn to create<br>
   🐞 Debugging isn’t just fixing code, it’s solving tiny mysteries (and I enjoy that)<br>
@@ -15,8 +19,14 @@
   🧩 I’m a curious explorer in tech, driven by the thrill of “what else can we make better?”
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MS%20CS%20@%20UofA-incoming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-enthusiast-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-creative-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging-fun-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ambivert-energy-yellow?style=for-the-badge" />
+</p>
 
-###
 
 <h1 align="center">💻 Tech Stack</h1>
 
