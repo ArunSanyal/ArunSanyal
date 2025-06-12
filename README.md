@@ -5,7 +5,21 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+🎓 Computer Engineering Under-graduate, soon starting my Master’s in Computer Science at the University of Arizona
+
+💻 I love programming — turning ideas into code is my favorite kind of magic
+
+🧠 Passionate about Machine Learning and Generative AI — fascinated by how machines learn to create
+
+🐞 Debugging isn’t just fixing code, it’s solving tiny mysteries (and I enjoy that)
+
+🌱 Always learning, always building — whether it’s models, mobile apps, or mindsets
+
+🌞 Ambivert by nature — I value quiet focus and meaningful conversations
+
+🧩 I’m a curious explorer in tech, driven by the thrill of “what else can we make better?”
+</p>
 
 ###
 
