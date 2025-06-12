@@ -18,7 +18,7 @@
   🌞 Ambivert by nature — I value quiet focus and meaningful conversations<br>
   🧩 I’m a curious explorer in tech, driven by the thrill of “what else can we make better?”
 </p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/MS%20CS%20@%20UofA-incoming-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-enthusiast-brightgreen?style=for-the-badge" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Debugging-fun-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ambivert-energy-yellow?style=for-the-badge" />
 </p>
-
+ <br>
 
 <h1 align="center">💻 Tech Stack</h1>
 
