@@ -120,7 +120,8 @@
 
 ###
 
-![Wakatime stats](https://github.com/ArunSanyal/ArunSanyal/blob/main/metrics.plugin.wakatime.svg)
+![Metrics](https://github.com/ArunSanyal/ArunSanyal/blob/main/github-metrics.svg)
+
 
 
 <div align="center">
