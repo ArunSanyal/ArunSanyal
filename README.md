@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="Profile_Banner.svg"  />
+  <img src="Profile_Banner.svg" width="100%" style="max-width:1000px; height:auto; border-radius:8px;" alt="Arun Sanyal Banner"/>
 </div>
+
 
 ###
 
@@ -92,20 +93,19 @@
 
 ###
 
-<h3 align="center">📈Statistics</h3>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ArunSanyal/ArunSanyal/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="center">📈 Statistics</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunSanyal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunSanyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArunSanyal/ArunSanyal/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -133,8 +133,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
