@@ -113,32 +113,35 @@
 
 ###
 
+
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArunSanyal&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ArunSanyal&theme=gruvbox&column=-1&row=1&margin-w=19&margin-h=6&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArunSanyal&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=ArunSanyal&theme=gruvbox&column=-1&row=1&margin-w=19&margin-h=6&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
 
-![Metrics](https://github.com/ArunSanyal/ArunSanyal/blob/main/github-metrics.svg)
+<div align="center">
+  <img src="https://github.com/ArunSanyal/ArunSanyal/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
-
+###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ArunSanyal/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ArunSanyal/count.svg?" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arun-sanyal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="arunsanyals@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:arunsanyals@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.threads.com/@arunsanyal_001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
-
